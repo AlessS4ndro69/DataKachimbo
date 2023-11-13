@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Física</course>
+  <courseCode>200</courseCode>
+  <topic>dinámica</topic>
+  <topicCode>6</topicCode>
+  <answer>0,10</answer>
+  <correctAlternative>D</correctAlternative>
+</data>
