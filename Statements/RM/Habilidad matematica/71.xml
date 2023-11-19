@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>9</topicCode>
+  <answer>8</answer>
+  <correctAlternative>C</correctAlternative>
+  <text>Halle el resto de dividir:
+4(3x-7)(3x - 5)5+8 por x-3,
+C) 8
+en R[x].
+A) 32
+D) -5
+B) -16
+E) 12</text>
+</data>

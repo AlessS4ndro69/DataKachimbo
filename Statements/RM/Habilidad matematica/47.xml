@@ -1,9 +1,15 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>series</topic>
   <topicCode>11</topicCode>
   <answer/>
   <correctAlternative>B</correctAlternative>
+  <text>-Halle el valor de la expresión:
+5² +5+1+++
+A) /
+D) 2
+B)(√5 C) 2/5
+E) 24/14</text>
 </data>

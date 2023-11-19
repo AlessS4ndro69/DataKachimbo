@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
   <answer>6,5</answer>
   <correctAlternative>A</correctAlternative>
+  <text>En la figura, I es incentro y G es
+baricentro del triángulo ABC, AB
+5cm, BC = 8cm e Halle AC.
+A) 6,5 cm
+B) 6 cm
+C) 7,25 cm
+D) 6,25 cm
+E) 6,75 cm
+A
+G
+C</text>
 </data>

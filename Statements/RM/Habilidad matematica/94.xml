@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>9</topicCode>
+  <answer/>
+  <correctAlternative>D</correctAlternative>
+  <text>Asuma la existencia de todas las raíces
+reales, para A, B y C números reales
+adecuados, en la expresión:
+√A+√C
+√√√A-√B=
+2
+Halle C.
+A) 2B - A
+C) √A-√B
+E)
+A-B
+2
+√A-√C
+2
+B) 2√A-√B
+D) A-B</text>
+</data>

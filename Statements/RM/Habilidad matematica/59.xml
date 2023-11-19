@@ -1,9 +1,22 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>áreas y perímetros</topic>
-  <topicCode>7</topicCode>
+  <topic>habilidad geometrica</topic>
+  <topicCode>8</topicCode>
   <answer>250</answer>
   <correctAlternative>B</correctAlternative>
+  <text>.Determine el área sombreada en la
+figura, donde A, B, C, D son
+círculos que son tangentes entre sí
+y, a su vez, tangentes al círculo
+mayor, de centro O y radio 30 cm.
+A
+A) 562,5 cm²
+B) 250 cm²
+C) 575x cm²
+D) 743,75 cm²
+E) 160 cm²
+O B
+D</text>
 </data>

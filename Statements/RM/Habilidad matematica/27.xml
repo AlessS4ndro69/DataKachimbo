@@ -1,9 +1,18 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>cuatro operaciones</topic>
   <topicCode>13</topicCode>
   <answer>17</answer>
   <correctAlternative>E</correctAlternative>
+  <text>Al dividir 287 entre un número
+positivo n se obtiene como cociente
+(n-1) y de residuo (n - 2). ¿Cuál es el
+valor de n?
+A) 15
+C) 16
+D) 19
+B) 18
+E) 17</text>
 </data>

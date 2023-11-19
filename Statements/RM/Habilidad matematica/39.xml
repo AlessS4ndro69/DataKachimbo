@@ -1,9 +1,25 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
-  <topicCode>8</topicCode>
+  <topic>areas y perimetros </topic>
+  <topicCode>7</topicCode>
   <answer>104</answer>
   <correctAlternative>B</correctAlternative>
+  <text>En la figura, AM = MN = NC y
+Si el área de la región sombreada es 8
+cm², calcule el área de la región
+triangular ABC.
+B
+A
+A) 112 cm²
+B) 104 cm²
+C) 120 cm²
+D) 128 cm²
+E) 96 cm²
+M
+P
+||
+513
+C</text>
 </data>

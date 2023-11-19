@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad operativa</topic>
-  <topicCode>9</topicCode>
+  <topic>operadores</topic>
+  <topicCode>3</topicCode>
   <answer/>
   <correctAlternative>D</correctAlternative>
+  <text>Si:
+P(x)
+calcule P(Q(1)).
+P(x) + Q(x) = ax + b.
+Q(x) = a + bx
+A) 4/3
+B) D) 2/3
+B) 1/3
+E) -4/3
+y P(5) = 4,
+C) 5/3</text>
 </data>

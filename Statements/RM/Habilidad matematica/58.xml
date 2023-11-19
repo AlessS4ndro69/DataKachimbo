@@ -1,9 +1,17 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
-  <answer>38°</answer>
+  <answer>38</answer>
   <correctAlternative>E</correctAlternative>
+  <text>En la figura, L₁/L₂ ya + B = 308°.
+Halle 0.
+A) 52°
+D) 48°
+B) 32°
+E) 38°
+a
+C) 42°</text>
 </data>

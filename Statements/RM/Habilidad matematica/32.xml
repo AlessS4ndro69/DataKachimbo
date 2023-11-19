@@ -1,9 +1,18 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>habilidad operativa</topic>
   <topicCode>9</topicCode>
   <answer>-1</answer>
   <correctAlternative>B</correctAlternative>
+  <text>¿Qué condición deben cumplir los
+números reales by c para que el
+polinomio x² + bx+c sea divisible
+por x - 1?
+A) b-c = 1
+C) b + c = 1
+E) b-c = -1
+B) b+c= -1
+D) c + b = 2</text>
 </data>

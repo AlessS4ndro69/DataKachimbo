@@ -1,9 +1,25 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
   <answer>10</answer>
   <correctAlternative>B</correctAlternative>
+  <text>En la figura, los puntos A, B y C son
+centros
+de
+circunferencias
+tangentes.
+las
+Si el radio de la
+circunferencia mayor es 5 cm, halle
+el perímetro del triángulo ABC.
+(B
+A
+A) 5 cm
+D) 20 cm
+C
+B) 10 cm C) 15 cm
+E) 8 cm</text>
 </data>

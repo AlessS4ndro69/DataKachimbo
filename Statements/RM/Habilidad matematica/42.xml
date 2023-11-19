@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>raz. lógico</topic>
+  <topic>razonamiento lógico</topic>
   <topicCode>15</topicCode>
   <answer>5</answer>
   <correctAlternative>D</correctAlternative>
+  <text>La promoción de una nueva gaseosa
+dice que por 3 de sus tapitas se regala
+una nueva gaseosa. Si ya se tienen 11
+tapitas, ¿cuántas gaseosas más se
+podrá consumir como máximo?
+A) 4
+C) 6
+D) 5
+B) 3
+E) 7</text>
 </data>

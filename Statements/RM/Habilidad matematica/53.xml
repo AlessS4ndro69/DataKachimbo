@@ -1,9 +1,16 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>habilidad operativa</topic>
   <topicCode>9</topicCode>
   <answer>4</answer>
   <correctAlternative>D</correctAlternative>
+  <text>Si (b + c) = -bc y a + b + c = 2,
+entonces el valor de a² + b² + c² es:
+A) 2
+B) 2√2
+C) 3
+D) 4
+E) 4√2</text>
 </data>

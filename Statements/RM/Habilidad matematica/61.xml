@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>fracciones</topic>
+  <topicCode>2</topicCode>
+  <answer>3500</answer>
+  <correctAlternative>D</correctAlternative>
+  <text>Un reservorio de agua lleno hasta sus 3/4
+partes pesa 3000 kg, pero lleno hasta su
+quinta parte pesa 1900 kg. ¿Cuál es el peso
+del recipiente lleno en toda su capacidad?
+A) 3600 kg
+C) 3300 kg
+E) 3200 kg
+B) 3400 kg
+D) 3500 kg</text>
+</data>

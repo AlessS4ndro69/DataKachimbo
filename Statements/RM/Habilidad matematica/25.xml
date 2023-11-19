@@ -1,9 +1,23 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>raz. lógico</topic>
-  <topicCode>15</topicCode>
+  <topic>juegos lógicos</topic>
+  <topicCode>23</topicCode>
   <answer>10</answer>
   <correctAlternative>B</correctAlternative>
+  <text>Un número N de diez cifras tiene las
+siguientes características: la cifra de
+la izquierda indica la cantidad de
+ceros que tiene N; la siguiente cifra, la
+cantidad de veces que aparece el
+dígito 1 en N; la siguiente, la cantidad
+de veces que aparece el dígito 2 en N;
+y así sucesivamente. Halla la suma de
+la cifras de N.
+C) 16
+A) 12
+D) 14
+B) 10
+E) 8</text>
 </data>

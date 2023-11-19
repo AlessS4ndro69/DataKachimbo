@@ -1,9 +1,18 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>operadores</topic>
   <topicCode>3</topicCode>
   <answer/>
   <correctAlternative>D</correctAlternative>
+  <text>Si a₁ = 4; a₂ = 6 y an
+para n ≥ 3; determine a5.
+A) 24/4
+D) 21/4
+B) 19/4
+E) 4/25
+an-2+an-1
+2
+C) 4/21</text>
 </data>

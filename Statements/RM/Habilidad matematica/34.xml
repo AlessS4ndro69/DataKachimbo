@@ -1,9 +1,17 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>habilidad operativa</topic>
   <topicCode>9</topicCode>
   <answer>66</answer>
   <correctAlternative>E</correctAlternative>
+  <text>Si 264 = aª y √√354
+= (3b)b,
+B) 96
+E) 66
+A) 48
+D) 44
+halle 3a + 2b.
+C) 99</text>
 </data>

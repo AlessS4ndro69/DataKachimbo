@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>cuatro operaciones</topic>
   <topicCode>13</topicCode>
   <answer>20</answer>
   <correctAlternative>B</correctAlternative>
+  <text>. Sea N el mayor número entero
+comprendido entre 300 y 4000, tal
+que al ser dividido entre 18; 35 y 42,
+deja siempre un residuo igual a 11.
+¿Cuál es la suma de las cifras de N?
+A) 9
+D) 14
+C) 18
+B) 20
+E) 11</text>
 </data>

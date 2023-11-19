@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>ecuaciones</topic>
+  <topicCode>4</topicCode>
+  <answer>1000</answer>
+  <correctAlternative>C</correctAlternative>
+  <text>Un señor tiene cien mil cabellos. Si cada tres
+días pierde 360 cabellos y cada semana le
+crecen 140, ¿en cuántos días se quedará
+completamente
+C) 1000
+A) 820
+D) 780
+calvo?
+B) 960
+E) 980</text>
+</data>

@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>planteo de ecuaciones</topic>
   <topicCode>4</topicCode>
   <answer>17</answer>
   <correctAlternative>B</correctAlternative>
+  <text>Si a un número par o se le suma el
+par de números pares que le preceden
+y el número impar que le sigue, se
+obtiene 403. La suma de los digitos
+del menor de los cuatro números es:
+A) 8
+C) 11
+D) 14
+B) 17
+E) 20</text>
 </data>

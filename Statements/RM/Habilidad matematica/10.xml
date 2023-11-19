@@ -1,9 +1,25 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad operativa</topic>
-  <topicCode>9</topicCode>
+  <topic>progresiones</topic>
+  <topicCode>24</topicCode>
   <answer>100</answer>
   <correctAlternative>D</correctAlternative>
+  <text>m;
+En la siguiente
+aritmética,
+positivo.
+progresión
+m es un entero
+; 33;
+; 113
+(n+1) términos
+(3n+1) términos
+¿Cuál es el máximo valor de n - m?
+C) 79
+A) 112
+B) D) 100
+B) 21
+E) 50</text>
 </data>

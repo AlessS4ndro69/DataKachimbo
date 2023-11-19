@@ -1,9 +1,26 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
-  <topicCode>8</topicCode>
+  <topic>areas y perimetros</topic>
+  <topicCode>7</topicCode>
   <answer/>
   <correctAlternative>C</correctAlternative>
+  <text>. En la figura, ABCD es un rectángulo
+y OC PDCD. Si My N son puntos
+medios de BC y AD, respectivamente,
+halle la razón entre el área de la
+región sombreada y el área de la
+región no sombreada.
+B
+A
+A) 3/5
+B) D) 3/8
+M
+N
+B) 8/3
+E) 5/8
+C) 5/3
+C
+P</text>
 </data>

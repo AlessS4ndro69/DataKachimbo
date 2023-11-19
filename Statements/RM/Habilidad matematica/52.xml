@@ -1,9 +1,17 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>habilidad operativa</topic>
   <topicCode>9</topicCode>
   <answer>259</answer>
-  <correctAlternative>C</correctAlternative>
+  <correctAlternative>E</correctAlternative>
+  <text>Determine el valor de n, sabiendo que
+el desarrollo de (x + a)²n+25 tiene
+524 términos.
+A) 295
+D) 269
+B) 305
+E) 259
+C) 209</text>
 </data>

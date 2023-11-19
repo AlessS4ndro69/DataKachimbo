@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad geometrica</topic>
+  <topicCode>8</topicCode>
+  <answer>10</answer>
+  <correctAlternative>A</correctAlternative>
+  <text>La figura muestra una esferita de acero
+suspendida por la cuerda flexible QH. Se
+impulsa la esferita en el sentido indicado de
+tal forma que manteniéndose siempre tensa
+la cuerda, la esferita lleva a MN. Calcule la
+longitud recorrida por la esferita, si MN = NP
+= PQ = 9cm.
+M
+120°
+N
+A) 10x cm
+D) 9rcm
+150°
+P
+2.
+21
+PH
+B) 12x cm
+E) 8 cm
+C) 6.rcm</text>
+</data>

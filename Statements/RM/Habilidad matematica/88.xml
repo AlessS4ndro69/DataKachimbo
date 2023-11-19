@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>moviles</topic>
+  <topicCode>21</topicCode>
+  <answer>1200</answer>
+  <correctAlternative>A</correctAlternative>
+  <text>Lucía, Julia y María están en una
+competencia ciclística sobre una pista
+circular y comienzan, simultáneamente, de
+la misma línea de partida y en la misma
+dirección. Si Lucía completa una vuelta en
+50 segundos, Julia la completa en 48
+segundos y María en 60 segundos; ¿después
+de cuántos segundos pasarán las tres juntas
+por la línea de partida?
+A) 1200
+D) 800
+B) 600
+E) 1800
+C) 900</text>
+</data>

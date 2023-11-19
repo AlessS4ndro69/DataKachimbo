@@ -1,9 +1,17 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad operativa</topic>
-  <topicCode>9</topicCode>
-  <answer>1</answer>
+  <topic>operadores</topic>
+  <topicCode>3</topicCode>
+  <answer/>
   <correctAlternative>C</correctAlternative>
+  <text>Si
+a + b = 1 y ab = √2,
+simplifique la expresión
+(ab + ba) (a + bb) - (aª/2 + 2b/2)
+A) ab + 1
+B) ba + 1
+C) 1
+B) D) a + 1 E) O</text>
 </data>

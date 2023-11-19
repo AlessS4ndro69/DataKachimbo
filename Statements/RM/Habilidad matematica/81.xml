@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>orden de información</topic>
+  <topicCode>19</topicCode>
+  <answer>12,5</answer>
+  <correctAlternative>C</correctAlternative>
+  <text>Cuatro estudiantes,
+luego de rendir un
+examen, obtuvieron 10, 11, 14 y 15 de
+nota. Si Aldo obtuvo nota impar; Hugo y
+Dante obtuvieron, cada uno, menos nota
+que Juan; y Hugo obtuvo más nota que
+Aldo, ¿cuál es el promedio de las notas de
+Juan y Dante?
+C) 12,5
+A) 10,5
+D) 12
+B) 14,5
+E) 13</text>
+</data>

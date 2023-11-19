@@ -1,9 +1,29 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
   <answer/>
   <correctAlternative>A</correctAlternative>
+  <text>En la figura, el radio de una rueda es
+el triple del radio de la otra. Si la
+longitud de la correa de transmisión
+de ambas ruedas mide M, halle la
+longitud del radio menor.
+3M
+A)
+B)
+C)
+D)
+E)
+147+12√3
+3M
+87+12√3
+3M
+127+8√3
+3M
+147+14√3
+3M
+87+14√3</text>
 </data>

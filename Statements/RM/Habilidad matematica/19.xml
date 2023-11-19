@@ -1,9 +1,25 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
   <answer>3</answer>
   <correctAlternative>E</correctAlternative>
+  <text>En la figura, se tiene que Q es el
+punto medio de BC, MP//AC y
+AQ//FP.
+Si AB = 6 cm y m/MPF = m/MAF.
+Halle MQ.
+A
+A) 2 cm
+D) 2/3 cm
+B
+M
+F
+Q
+P
+C
+B) 3/2 cm C) 1 cm
+E) 3 cm</text>
 </data>

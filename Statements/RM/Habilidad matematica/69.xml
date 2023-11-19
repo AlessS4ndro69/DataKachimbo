@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>cuatro operaciones </topic>
+  <topicCode>13</topicCode>
+  <answer>181</answer>
+  <correctAlternative>D</correctAlternative>
+  <text>Halle el menor número que al ser dividido
+por 3; 5; 9 y 12 siempre da residuo 1.
+A) 361
+B) 179C) 359D) 181E) 287</text>
+</data>

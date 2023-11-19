@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>ecuaciones</topic>
+  <topicCode>4</topicCode>
+  <answer>10</answer>
+  <correctAlternative>D</correctAlternative>
+  <text>Pedro y sus amigos desean entrar al cine,
+por lo cual deben pagar en total S/. 200;
+pero 5 de ellos no tienen dinero para la
+entrada, por lo que los demás deben aportar
+S/. 2 más de lo previsto. ¿Cuánto pagó
+C) S/. 12
+Pedro?
+A) S/. 20
+D) S/. 10
+B) S/. 8
+E) S/. 9</text>
+</data>

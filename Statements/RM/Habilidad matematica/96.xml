@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad geométrica</topic>
+  <topicCode>8</topicCode>
+  <answer>20</answer>
+  <correctAlternative>A</correctAlternative>
+  <text>En la figura, si a + B + y = 400°, halle x.
+A) 20⁰
+B) 400
+C) 30⁰
+D) 50⁰
+E) 60⁰
+a
+B</text>
+</data>

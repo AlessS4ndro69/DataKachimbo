@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad operativa</topic>
-  <topicCode>9</topicCode>
+  <topic>ecuaciones</topic>
+  <topicCode>4</topicCode>
   <answer/>
   <correctAlternative>A</correctAlternative>
+  <text>Sixe (0; 7), entonces encuentre la
+suma de los extremos del intervalo al
+que pertenece:
+5-x
+x+3
+A) 22/15
+D) 1/6
+y =
+B) 28/15
+E) -1/6
+C) 8/3</text>
 </data>

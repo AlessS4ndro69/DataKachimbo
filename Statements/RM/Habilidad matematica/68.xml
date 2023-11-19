@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>cuatro operaciones </topic>
+  <topicCode>13</topicCode>
+  <answer>181</answer>
+  <correctAlternative>D</correctAlternative>
+  <text>Se disminuye el ancho de un afiche
+rectangular en 10% y el largo en 30%. ¿Qué
+porcentaje del área original representa el
+área del afiche restante?
+C) 77%
+A) 45%
+D) 70%
+B) 63%
+E) 56%</text>
+</data>

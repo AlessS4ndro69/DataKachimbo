@@ -1,9 +1,23 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>fracciones</topic>
-  <topicCode>6</topicCode>
+  <topic>planteo de ecuaciones</topic>
+  <topicCode>4</topicCode>
   <answer>100</answer>
   <correctAlternative>A</correctAlternative>
+  <text>Al examen de un curso de
+Matemática, solo asistieron 34 del
+número
+de alumnos
+total
+matriculados. De los que asistieron,
+aprobaron los 3/5 y desaprobaron
+30. ¿Cuántos alumnos matriculados
+hay en dicho curso?
+C) 180
+A) 100
+B) D) 80
+B) 75
+E) 120</text>
 </data>

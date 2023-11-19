@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>ecuaciones</topic>
+  <topicCode>4</topicCode>
+  <answer/>
+  <correctAlternative>D</correctAlternative>
+  <text>Una joven debe lavar n docenas de camisas;
+recibirá a nuevos soles por cada camisa bien
+lavada y pagará b nuevos soles por cada
+camisa mal lavada. Si recibió m nuevos
+soles en total, ¿cuántas camisas fueron mal
+lavadas?
+A)
+D)
+m+12an
+a+b
+B)
+12an - m
+a+b
+an-m
+a+b
+E)
+m-an
+12a+b
+12am-n
+a+b</text>
+</data>

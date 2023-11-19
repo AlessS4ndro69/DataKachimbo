@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad geométrica</topic>
+  <topicCode>8</topicCode>
+  <answer>3,2</answer>
+  <correctAlternative>E</correctAlternative>
+  <text>En la figura ABCD es un trapecio isósceles; P
+y T son puntos de tangencia. Si la longitud
+de la base mayor es el triple de la base
+menor y PT = 4,8 cm, halle la longitud de la
+base menor.
+A) 3,5 cm
+B) 3,6 cm
+C) 3 cm
+D) 3,8 cm
+E) 3,2 cm
+B
+K
+A
+T
+D</text>
+</data>

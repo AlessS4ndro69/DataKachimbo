@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>cuatro operaciones</topic>
+  <topicCode>13</topicCode>
+  <answer>2</answer>
+  <correctAlternative>E</correctAlternative>
+  <text>Se tiene 127 números consecutivos enteros
+positivos. Al dividir el mayor entre el menor
+de ellos, se obtiene 29 de residuo. ¿Cuál es
+la cifra de las unidades del producto del
+centésimo segundo y del vigésimo tercer
+número?
+C) 4
+A) 1
+D) 6
+B) 3
+E) 2</text>
+</data>

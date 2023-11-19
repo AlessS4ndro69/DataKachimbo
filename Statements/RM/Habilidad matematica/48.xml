@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>operadores</topic>
-  <topicCode>3</topicCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>9</topicCode>
   <answer>7</answer>
   <correctAlternative>A</correctAlternative>
+  <text>En el conjunto de números reales, se
+define el operador
+= (a + 1)²
+Si= 100
+Determine el valor de x² + 2x + 6.
+B) 1+ √2
+D) 5
+A) 7
+C) 1-√2
+21
+E) 4</text>
 </data>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>ecuaciones</topic>
+  <topicCode>4</topicCode>
+  <answer>5</answer>
+  <correctAlternative>A</correctAlternative>
+  <text>Un joyero fabrica un total de 16 anillos,
+unos de oro y otros de plata. Si vende 3
+anillos de cada metal precioso, le queda un
+número de anillos tal que el número de los
+de plata es el cuádruple de los de oro.
+Indique la proposición verdadera referida al
+número de anillos que fabricó el joyero.
+A) 5 anillos de oro
+B) 11 anillos de oro
+C) 5 anillos de plata
+D) 10 anillos de plata y 6 de oro
+E) 6 anillos de plata y 10 de oro</text>
+</data>

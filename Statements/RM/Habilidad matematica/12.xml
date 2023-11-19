@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad operativa</topic>
-  <topicCode>9</topicCode>
+  <topic>operadores</topic>
+  <topicCode>3</topicCode>
   <answer/>
   <correctAlternative>D</correctAlternative>
+  <text>Si
+x = 2 (donde x &gt; 0)
+halle el valor de la expresión
+(4x²) x (xxx)³ + (x²)-y
+2x²y - 6x-y
+A) 3
+D) 13/4
+B) 11/4
+E) 16/3
+C) 16/5</text>
 </data>

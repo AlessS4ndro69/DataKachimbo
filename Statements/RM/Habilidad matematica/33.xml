@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>cuatro operaciones</topic>
-  <topicCode>13</topicCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>9</topicCode>
   <answer>48</answer>
   <correctAlternative>A</correctAlternative>
+  <text>Con el dinero que tengo puedo
+comprar 20 libros u 80 cuadernos. Si
+al final compré 8 libros, ¿cuántos
+cuadernos puedo comprar con el
+dinero que me queda?
+A) 48
+B) 52
+D) 44
+E) 40
+C) 36</text>
 </data>

@@ -1,9 +1,21 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>certezas</topic>
-  <topicCode>18</topicCode>
+  <topic>series</topic>
+  <topicCode>11</topicCode>
   <answer>23</answer>
   <correctAlternative>A</correctAlternative>
+  <text>En una caja hay 30 bolos numerados
+desde el 1 hasta el 30, todos con
+diferente numeración. ¿Cuántos
+bolos como mínimo se deben extraer
+al azar para tener la certeza de haber
+extraído, entre ellos, un bolo con
+numeración impar menor que 17?
+A) 23
+B) 22
+C) 24
+D) 21
+E) 25</text>
 </data>

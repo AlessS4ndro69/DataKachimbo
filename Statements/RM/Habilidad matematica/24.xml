@@ -1,9 +1,29 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>raz. lógico</topic>
-  <topicCode>15</topicCode>
+  <topic>juegos lógicos</topic>
+  <topicCode>23</topicCode>
   <answer>8</answer>
   <correctAlternative>C</correctAlternative>
+  <text>En un juego que consiste en lanzar
+dos dados a la vez, Néstor, Victor,
+y
+Javier
+los
+Mario
+obtuvieron
+siguientes resultados: 3; 5; 8 y 12, no
+necesariamente en ese orden. Si
+Victor no obtuvo ningún valor par en
+su lanzamiento y Néstor obtuvo un
+puntaje mayor que el de Javier, pero
+menor que el de Mario, ¿cuánto
+suman los puntajes de Javier y
+Néstor?
+A) 11
+C) 8
+D) 15
+B) 13
+E) 17</text>
 </data>

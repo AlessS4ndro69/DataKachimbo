@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>porcentajes</topic>
+  <topicCode>1</topicCode>
+  <answer/>
+  <correctAlternative>E</correctAlternative>
+  <text>Se compra un artículo en p nuevos soles;
+?en cuánto debe venderse si se desea ganar
+el r% del precio de venta?
+nuevos soles
+A)
+B)
+C)
+D)
+E)
+100p
+100+r
+p(100+r)
+100
+p(100-r)
+100
+100rp
+100-r
+100p
+100-r
+nuevos soles
+nuevos soles
+nuevos soles
+nuevos soles</text>
+</data>

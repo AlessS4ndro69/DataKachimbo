@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>Perímetros</topic>
+  <topicCode>7</topicCode>
+  <answer>280</answer>
+  <correctAlternative>C</correctAlternative>
+  <text>En la figura, E₁R₁ = ₁₁².
+Halle el perímetro de la región sombreada,
+en centímetros.
+R₁
+A) 300
+cm
+D) 320 cm
+R₁ Re
+R2 R3 R4 R
+R7
+B) 250 cm C) 280 cm
+cm
+E) 270</text>
+</data>

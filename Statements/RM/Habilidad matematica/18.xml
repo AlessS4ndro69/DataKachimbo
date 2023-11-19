@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>habilidad geométrica</topic>
+  <topic>habilidad geometrica</topic>
   <topicCode>8</topicCode>
   <answer>8</answer>
   <correctAlternative>A</correctAlternative>
+  <text>A
+En la figura, halle AB, dado que
+(AE)(AC) = 128.
+B
+A) 8,0
+B) D) 7,5
+E
+B) 6,4
+E) 8,4
+C) 7,2
+C</text>
 </data>

@@ -1,9 +1,28 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>áreas y perímetros</topic>
-  <topicCode>7</topicCode>
+  <topic>habilidad geometrica</topic>
+  <topicCode>8</topicCode>
   <answer/>
   <correctAlternative>D</correctAlternative>
+  <text>.Un cono circular recto tiene
+volumen V cm³. Si la razón entre
+su altura y el diámetro de su base
+es el volumen de la esfera de
+√3
+2
+mayor radio inscrita en el cono es:
+√√3
+A) -Vcm³
+2
+√√3
+B) -Vcm³
+2
+2
+C) =Vcm³
+4
+D) -Vcm³
+1
+E) Vcm³</text>
 </data>

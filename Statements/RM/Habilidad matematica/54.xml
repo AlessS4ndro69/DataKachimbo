@@ -1,9 +1,21 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>regla de tres</topic>
-  <topicCode>10</topicCode>
-  <answer>a+b</answer>
+  <topic>planteo de ecuaciones</topic>
+  <topicCode>4</topicCode>
+  <answer/>
   <correctAlternative>C</correctAlternative>
+  <text>Para comprar n libros me falta S/. a;
+pero si compro (n-1) libros me sobra
+S/. b. Si todos los libros tienen el
+mismo precio, ¿cuánto cuesta cada
+libro?
+A) S/. (a + 2b)
+C) S/. (a + b)
+E) S/(a+2b)
+2
+B) S/. (2a + b)
+D) S/.2(a+b)
+3</text>
 </data>

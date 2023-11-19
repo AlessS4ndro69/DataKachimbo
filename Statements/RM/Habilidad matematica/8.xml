@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>criptoaritmética</topic>
-  <topicCode>5</topicCode>
-  <answer>27</answer>
-  <correctAlternative>D</correctAlternative>
+  <topic>habilidad geométrica</topic>
+  <topicCode>8</topicCode>
+  <answer/>
+  <correctAlternative>B</correctAlternative>
+  <text>Si
+abc x a = 5481
+abc x b = 6264
+abc x c = 2349
+Halle la suma
+A) 30
+B) D) 27
+de las cifras de abc²
+B) 18
+C) 21
+E) 24</text>
 </data>

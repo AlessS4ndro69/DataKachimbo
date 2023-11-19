@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>cuatro operaciones</topic>
+  <topicCode>13</topicCode>
+  <answer>1</answer>
+  <correctAlternative>C</correctAlternative>
+  <text>Halle el residuo
+entre 9.
+A) 5
+D) 3
+que se obtiene al dividir 5836
+C) 1
+B) 2
+E) 4</text>
+</data>

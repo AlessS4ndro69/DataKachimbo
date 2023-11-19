@@ -1,9 +1,27 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>series</topic>
   <topicCode>11</topicCode>
   <answer>255</answer>
   <correctAlternative>E</correctAlternative>
+  <text>Un padre de familia
+hijo 8 problemas,
+dólar por resolver
+ha propuesto a su
+ofreciéndole
+correctamente
+un
+el
+primer problema, 2 dólares por el
+segundo, 4 dólares por el tercero, y así
+sucesivamente. Si el hijo resuelve
+todos los problemas correctamente,
+¿cuántos dólares recibirá?
+A) 132 dólares
+B) 200 dólares
+C) 250 dólares
+D) 248 dólares
+E) 255 dólares</text>
 </data>

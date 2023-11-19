@@ -1,9 +1,19 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>máximos y mínimos</topic>
+  <topic>maximos y minimos</topic>
   <topicCode>20</topicCode>
   <answer>774</answer>
   <correctAlternative>A</correctAlternative>
+  <text>Usando los dígitos 1; 2; 3; 4; 5; 6; 7;
+8; 9, sólo una vez cada uno, se forman
+tres números de tres cifras cada uno,
+tal que su suma sea minima. ¿Cuál es
+esta suma?
+C) 1234
+A) 774
+D) 651
+B) 876
+E) 963</text>
 </data>

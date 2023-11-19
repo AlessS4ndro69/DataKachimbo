@@ -1,9 +1,30 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>fechas y calendarios</topic>
-  <topicCode>17</topicCode>
+  <topic>razonamiento lógico</topic>
+  <topicCode>15</topicCode>
   <answer/>
   <correctAlternative>C</correctAlternative>
+  <text>Marisol, Rosario y Patricia nacieron en
+mayo, agosto y noviembre
+1999
+de los años
+y 2000,
+1998,
+no
+necesariamente en ese orden. Si se
+sabe que:
+* Las tres nacieron en meses y años
+diferentes;
+* Marisol es la menor;
+* La mayor nació en noviembre; y
+* El cumpleaños de Rosario coincide
+con el Día de la Madre del presente
+año.
+¿En qué mes y año nació Patricia?
+A) Mayo de 1999
+B) Mayo de 1998
+C) Noviembre de 1998
+D) Agosto de 2000</text>
 </data>

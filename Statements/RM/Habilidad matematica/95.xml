@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>9</topicCode>
+  <answer/>
+  <correctAlternative>B</correctAlternative>
+  <text>Sea f: (-2; 7]→R la función definida por f(x)= 5
+-|x
+11. Halle el rango de f.
+A) (-2; 1)
+D) (-2; 6]
+B) (-1; 5]
+E) (-1; 2]
+C) (-1; 2)</text>
+</data>

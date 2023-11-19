@@ -1,9 +1,26 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
   <topic>fechas y calendarios</topic>
   <topicCode>17</topicCode>
-  <answer>1987</answer>
+  <answer/>
   <correctAlternative>E</correctAlternative>
+  <text>Jaime, Carlos, Alberto y
+nacieron en años distintos:
+1985 y 1987,
+Juan
+1982,
+no
+1983,
+necesariamente en ese orden. Si se
+sabe que el menor no es ni Jaime ni
+Juan, y que Jaime es tres años
+menor que Alberto, ¿cuál de las
+siguientes afirmaciones es correcta?
+A) Alberto nació en 1985.
+B) Carlos nació en 1982.
+C) Jaime nació en 1983.
+D) Juan nació en 1985.
+E) Carlos nació en 1987.</text>
 </data>

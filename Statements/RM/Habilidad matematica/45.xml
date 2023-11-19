@@ -1,9 +1,23 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>raz. lógico</topic>
-  <topicCode>15</topicCode>
+  <topic>juegos lógicos</topic>
+  <topicCode>23</topicCode>
   <answer>4</answer>
   <correctAlternative>C</correctAlternative>
+  <text>En la figura se muestra un trozo de
+madera delgada, en la cual se
+trazaron líneas rectas formando 12
+triángulos equiláteros congruentes.
+¿Cuántos cortes rectos como mínimo
+debemos realizar con una sierra
+eléctrica para obtener los 12
+triángulos
+separados?
+A) 3
+B) 7
+C) 4
+D) 5
+E) 6</text>
 </data>

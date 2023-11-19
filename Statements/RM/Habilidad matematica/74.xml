@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>habilidad operativa</topic>
+  <topicCode>8</topicCode>
+  <answer/>
+  <correctAlternative>C</correctAlternative>
+  <text>Los números positivos x e y satisfacen el
+sistema:
+2logxx + 2log3y = 0
+log₂x log₂y = 2
+halle x + y.
+9
+A) ²/
+D) 1
+-
+B)
+E)
+314415
+C)
+5|2</text>
+</data>

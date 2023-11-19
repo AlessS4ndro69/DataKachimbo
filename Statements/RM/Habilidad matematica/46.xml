@@ -1,9 +1,21 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>parentesco</topic>
-  <topicCode>14</topicCode>
+  <topic>juegos lógicos</topic>
+  <topicCode>23</topicCode>
   <answer>3</answer>
   <correctAlternative>B</correctAlternative>
+  <text>Pilar tiene 2 hijos, una hija y 9
+nietos. José, el primogénito, tiene un
+hijo más que su hermano Jorge; y su
+hermana Carmen tiene dos hijos más
+que su hermano menor. ¿Cuántos
+hijos tiene José?
+A) 4
+D) 2
+B) 3
+E) 5
+PNHC
+C) 1</text>
 </data>

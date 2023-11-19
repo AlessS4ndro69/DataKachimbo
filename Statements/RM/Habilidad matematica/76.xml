@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Raz. Matemática </course>
+  <courseCode>10</courseCode>
+  <topic>areas y perimetros</topic>
+  <topicCode>7</topicCode>
+  <answer>2</answer>
+  <correctAlternative>E</correctAlternative>
+  <text>El cuadro
+MNPQ está dividido en 16
+de 1 cm de lado cada uno. Halle
+el área del triángulo ABC.
+cuadraditos
+A) √2cm²
+B) 2√2cm²
+C) 3/2cm²
+D) √5cm²
+E) 2cm²
+M
+B
+Q</text>
+</data>

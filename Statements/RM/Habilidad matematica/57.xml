@@ -1,9 +1,20 @@
 <?xml version="1.0" ?>
 <data>
-  <course>Raz. Mat.</course>
+  <course>Raz. Matemática </course>
   <courseCode>10</courseCode>
-  <topic>áreas y perímetros</topic>
-  <topicCode>7</topicCode>
+  <topic>habilidad geometrica</topic>
+  <topicCode>8</topicCode>
   <answer>9</answer>
   <correctAlternative>E</correctAlternative>
+  <text>Un poste se quiebra dejando en pie la
+tercera parte de su altura total. Si al
+caer, su extremo superior describe un
+arco de 4√3mm de longitud, halle la
+distancia entre el pie del poste y el
+extremo superior que está en el suelo.
+C) 6 m
+A) 8√3m
+D) 6√3m
+B) 18 m
+E) 9 m</text>
 </data>
