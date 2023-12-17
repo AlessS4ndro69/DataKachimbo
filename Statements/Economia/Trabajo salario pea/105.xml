@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<data>
+  <course>Economía</course>
+  <courseCode>104</courseCode>
+  <topic>trabajo salario pea</topic>
+  <topicCode>10</topicCode>
+  <answer/>
+  <correctAlternative>A</correctAlternative>
+  <text>Pedro es un joven provinciano de 24 años que no
+tiene un trabajo estable. Ocasionalmente, desde un
+paradero no establecido de vehículos, informa a los
+choferes de las combis que compiten por los
+pasajeros. A cada combi que transita por su zona le
+entrega un pedazo de papel con anotaciones de
+tiempo y líneas de transporte que han circulado en
+los últimos cinco minutos. A cambio, el cobrador le
+entrega una moneda de 20 céntimos.
+Según el texto, seleccione la alternativa correcta
+que corresponde al valor de verdad (V o F) de las
+proposiciones relativas a Pedro.
+UNMSM 2019-II
+I. Es un subempleado y su trabajo es informal.
+II. Está adecuadamente empleado y su trabajo es
+formal.
+III. Es un subempleado y su trabajo es formal.
+A) VFF
+C) VFV
+D) FFF
+B) FVV
+E) FVF</text>
+</data>
